@@ -171,10 +171,9 @@
                 <p>Chào mừng bạn đã ghé thăm trang wed giới thiệu bản thân của mình</p>
                                <h1> <strong> Đồng Quốc Bình<strong><h1>
                 <div class="social-links">
-                    <a href="hhttps://www.facebook.com/share/1ATkyHsC4s/?mibextid=wwXIfr" class="btn">Facebook</a>
+                    <a href="[hhttps://www.facebook.com/share/1ATkyHsC4s/?mibextid=wwXIfr](https://www.facebook.com/BinhSicMaB0i?mibextid=wwXIfr&rdid=OtHakRFsg7Dp2WPF&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F17WwBZbQSN%2F%3Fmibextid%3DwwXIfr)" class="btn">Facebook</a>
                     <a href="mailto:dongquocbinh2008@gmail.com" class="btn"> Email</a>
                 </div>
-            </div>
 
             <div class="media-box">
                 <h3>Video Giới thiệu</h3>
@@ -186,9 +185,7 @@
                     <source src="https://files.catbox.moe/xsuut8.mp3" type="audio/mpeg">
                 </audio>
             </div>
-        </div>
-    </section>
-
+    
     <section id="about">
         <div class="intro-grid">
             <div class="card">
@@ -224,5 +221,3 @@
         &copy; 2026 Bản quyền thuộc về Đồng Quốc Bình.
     </footer>
 
-</body>
-</html>
